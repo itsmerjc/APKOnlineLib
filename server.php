@@ -1,1 +1,1 @@
-https://itsmerjc.net/libon/login.php
+https://itsmerjc.com/libon/login.php
