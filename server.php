@@ -1,1 +1,1 @@
-https://itsmerjc.cloud/libon/login.php
+https://panel.itsmerjc.cloud/libon/login.php
