@@ -1,1 +1,1 @@
-https://itsmerjc.com/server/dashboard.php
+https://itsmerjc.cloud/server/dashboard.php
