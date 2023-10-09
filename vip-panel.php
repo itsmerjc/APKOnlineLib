@@ -1,1 +1,1 @@
-https://panel.itsmerjc.cloud/redirect.php
+https://panel.itsmerjc.cloud/post.php
