@@ -1,1 +1,1 @@
-https://panel.itsmerjc.cloud/post.php
+https://bit.ly/3ZQ50ek
